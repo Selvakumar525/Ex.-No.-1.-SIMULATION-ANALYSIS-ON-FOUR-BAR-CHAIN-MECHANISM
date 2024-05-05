@@ -55,7 +55,7 @@
 ## Output:
 
 ![alt text](image.png)
-### Name:Selva Kumar A
+### Name:Selva Kumar a
 ### Register Number: 212222110042
 
 ## RESULT:
