@@ -53,10 +53,11 @@
 
 
 ## Output:
+![291664381-26776e7c-31ec-4faa-9367-e21a6c12c152](https://github.com/JOHNSUBIK/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150279319/d1497516-eeb2-457b-a524-fe82be55d9ea)
 
-![alt text](image.png)
-### Name:Selva Kumar a
-### Register Number: 212222110042
+
+### Name: John Paul J
+### Register Number: 212223230093
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
